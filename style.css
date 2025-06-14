@@ -1,10 +1,10 @@
 .day {
-  width: 197px;
+  width: 210px;
   height: 430px;
-  margin-bottom: 15px;
+  margin: 10px;
 }
 .container {
-  width: 100%;
+  width: 480px;
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -27,5 +27,9 @@
   justify-content: left;
 }
 body {
-  background: #a0d2eb;
+  background: #8458b3;
+}
+* {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 12px;
 }
