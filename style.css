@@ -1,6 +1,6 @@
 .day {
   width: 210px;
-  height: 430px;
+  height: 450px;
   margin: 10px;
 }
 .container {
@@ -33,4 +33,3 @@ body {
   font-family: "IBM Plex Mono", monospace;
   font-size: 12px;
 }
-/* / */
